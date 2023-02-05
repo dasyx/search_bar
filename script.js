@@ -14,7 +14,8 @@ searchButton.addEventListener('click', function () {
 const data = [
   ['dog', 'DOG', 'Canis lupus familiaris'],
   ['cat', 'CAT', 'Felis catus'],
-  ['lion', 'LION', 'Panthera leo']
+  ['lion', 'LION', 'Panthera leo'],
+  ['duck', 'DUCK', 'Anatis']
 ];
 
 // Récupérer l'élément de saisie
